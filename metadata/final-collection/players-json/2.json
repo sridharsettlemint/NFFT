@@ -1,0 +1,22 @@
+{
+    "name" : "Besart Berisha",
+    "description": "Besart Berisha is a Kosovo Albanian professional footballer who plays as a striker for Kosovan club Prishtina",
+    "image" : "https://ipfs.io/ipfs/QmXtr4c3pXyWRGLFRtoWKgB4tLsepMXGCL5Rvs53dSWjEm/BesartBerisha.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 8,
+            "max_value": 10
+        }
+    ]
+}

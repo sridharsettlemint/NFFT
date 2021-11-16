@@ -1,0 +1,22 @@
+{
+    "name" : "Adam Le Fondre",
+    "description": "Adam Le Fondre, is an English professional footballer who plays as a striker for Sydney FC in the A-League.",
+    "image" : "https://ipfs.io/ipfs/QmXtr4c3pXyWRGLFRtoWKgB4tLsepMXGCL5Rvs53dSWjEm/AdamLeFondre.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}

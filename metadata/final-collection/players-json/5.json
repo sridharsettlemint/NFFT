@@ -1,0 +1,22 @@
+{
+    "name" : "Mitchell Duke",
+    "description": "Mitchell Thomas Duke is an Australian international footballer (soccer) who plays for Fagiano Okayama in the J2 League",
+    "image" : "https://ipfs.io/ipfs/QmXtr4c3pXyWRGLFRtoWKgB4tLsepMXGCL5Rvs53dSWjEm/MitchellDuke.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

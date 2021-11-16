@@ -1,0 +1,22 @@
+{
+    "name" : "Bruno Fornaroli",
+    "description": "Bruno Fornaroli Mezza is a Uruguayan professional footballer who plays as a forward for A-League club Perth Glory.",
+    "image" : "https://ipfs.io/ipfs/QmXtr4c3pXyWRGLFRtoWKgB4tLsepMXGCL5Rvs53dSWjEm/BrunoFornaroli.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 8,
+            "max_value": 10
+        }
+    ]
+}

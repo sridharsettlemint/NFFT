@@ -1,0 +1,22 @@
+{
+    "name" : "JamieMaclaren",
+    "description": "Jamie Maclaren is an Australian professional soccer player who plays as a striker for A-League club Melbourne",
+    "image" : "https://ipfs.io/ipfs/QmXtr4c3pXyWRGLFRtoWKgB4tLsepMXGCL5Rvs53dSWjEm/JamieMaclaren.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 5,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 3,
+            "max_value": 10
+        }
+    ]
+}
